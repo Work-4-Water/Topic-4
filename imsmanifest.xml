@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_6b05Lm6SzyW" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_6aHzuttB0U1" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">Work-4-Water Topic 4- Cohort  3</langstring>
+          <langstring xml:lang="x-none">Work-4-Water Topic 4</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,16 +50,16 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="Work-4-Water_Topic_4-_Cohort__3_ORG">
-    <organization identifier="Work-4-Water_Topic_4-_Cohort__3_ORG">
-      <title>Work-4-Water Topic 4- Cohort  3</title>
-      <item identifier="Work-4-Water_Topic_3a_SCO" isvisible="true" identifierref="__6b05Lm6SzyW_RES">
-        <title>Work-4-Water Topic 4- Cohort  3</title>
+  <organizations default="Work-4-Water_Topic_4_ORG">
+    <organization identifier="Work-4-Water_Topic_4_ORG">
+      <title>Work-4-Water Topic 4</title>
+      <item identifier="Work-4-Water_Topic_3a_SCO" isvisible="true" identifierref="__6aHzuttB0U1_RES">
+        <title>Work-4-Water Topic 4</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6b05Lm6SzyW_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6aHzuttB0U1_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/5oidMKcyAnu_P_113_0_1820_1368.jpg" />
       <file href="mobile/6IIKu9xjo1O_X_P_-3_537_1638_230.jpg" />
